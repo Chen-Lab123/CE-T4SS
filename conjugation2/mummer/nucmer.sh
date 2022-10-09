@@ -1,0 +1,4 @@
+perl /datapool/bioinfo/dupc/bin/core_genome/coreSNP/nucmer_snp.pl /datapool/bioinfo/dupc/database/Bacteria/Enterococcus_faecalis_V583_uid57669/NC_004668.gbk.seq /datapool/bioinfo/dupc/project/E.faecalis/assemble/contig/1875.contig.1k
+perl /datapool/bioinfo/dupc/bin/core_genome/coreSNP/nucmer_snp.pl /datapool/bioinfo/dupc/database/Bacteria/Enterococcus_faecalis_V583_uid57669/NC_004668.gbk.seq /datapool/bioinfo/dupc/project/E.faecalis/assemble/contig/1883.contig.1k
+perl /datapool/bioinfo/dupc/bin/core_genome/coreSNP/nucmer_snp.pl /datapool/bioinfo/dupc/database/Bacteria/Enterococcus_faecalis_V583_uid57669/NC_004668.gbk.seq /datapool/bioinfo/dupc/project/E.faecalis/assemble/contig/5165.contig.1k
+perl /datapool/bioinfo/dupc/bin/core_genome/coreSNP/nucmer_snp.pl /datapool/bioinfo/dupc/database/Bacteria/Enterococcus_faecalis_V583_uid57669/NC_004668.gbk.seq /datapool/bioinfo/dupc/project/E.faecalis/assemble/contig/5316.contig.1k

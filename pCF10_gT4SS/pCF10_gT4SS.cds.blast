@@ -1,0 +1,1164 @@
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF01 sequence=AY855841:66603:67673:+ uvrA
+         (1071 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF02 sequence=AY855841:255:605:+ uvaE
+         (351 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF03 sequence=AY855841:562:774:+ uvaF
+         (213 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF04 sequence=AY855841:1207:1503:+ prgN
+         (297 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF05 sequence=AY855841:1606:1935:- prgO
+         (330 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF06 sequence=AY855841:1859:2788:- prgP
+         (930 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF07 sequence=AY855841:3035:4036:+ prgW
+         (1002 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF08 sequence=AY855841:4195:5832:+ prgZ
+         (1638 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF09 sequence=AY855841:5843:6997:+ prgY
+         (1155 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF10 sequence=AY855841:7030:7983:- prgX
+         (954 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF11 sequence=AY855841:8192:8263:+ prgQ
+         (72 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF12 sequence=AY855841:8745:9125:+ prgR
+         (381 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF13 sequence=AY855841:9125:9397:+ prgS
+         (273 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF14 sequence=AY855841:9699:9887:+ prgT
+         (189 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF15 sequence=AY855841:10015:12690:+ prgA
+         (2676 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF16 sequence=AY855841:12883:16800:+ prgB
+         (3918 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF17 sequence=AY855841:16862:17218:+ prgU
+         (357 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF18 sequence=AY855841:17246:18103:+ prgC
+         (858 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF19 sequence=AY855841:18145:19044:+ prgD
+         (900 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF20 sequence=AY855841:19064:19498:+ prgE
+         (435 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF21 sequence=AY855841:19545:19772:+ prgF
+         (228 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF22 sequence=AY855841:19786:20082:+ prgG
+         (297 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF23 sequence=AY855841:20097:20897:+ prgH
+         (801 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF24 sequence=AY855841:20899:21252:+ prgI
+         (354 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF25 sequence=AY855841:21359:23596:+ prgJ
+         (2238 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF26 sequence=AY855841:23608:26223:+ prgK
+         (2616 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+
+
+                                                             Score    E
+Sequences producing significant alignments:                  (bits) Value  N
+
+EF1823 sequence:NC_004668_1753724_1854644:14312:16270:-            56   9e-22  3 
+
+>EF1823 sequence:NC_004668_1753724_1854644:14312:16270:-
+          Length = 1959
+
+ Score = 55.7 bits (116), Expect(3) = 9e-22
+ Identities = 23/43 (53%), Positives = 28/43 (65%)
+ Frame = +1 / +1
+
+                                                       
+Query: 2398 GATLESAPKKGDAVIFTNGVAGSSTQYGHVAYVEHVNSDGSFV 2526
+            G  + S PK G A+ F  GVAG+  QYGHVA+VE V SDG  +
+Sbjct: 1735 GYQVSSLPKAGRAISFQPGVAGADNQYGHVAFVEAVTSDGIII 1863
+
+
+
+ Score = 53.9 bits (112), Expect(3) = 9e-22
+ Identities = 18/32 (56%), Positives = 22/32 (68%)
+ Frame = +1 / +1
+
+                                            
+Query: 2278 AYAPGNCTWYVFNRFAQLGKSIHPTMGNANQW 2373
+            +Y  G CTWYV+NRF QLG S+   MGN + W
+Sbjct: 1618 SYPVGQCTWYVYNRFKQLGTSVDEFMGNGSDW 1713
+
+
+
+ Score = 22.0 bits (42), Expect(3) = 9e-22
+ Identities = 8/18 (44%), Positives = 14/18 (77%)
+ Frame = +1 / +1
+
+                              
+Query: 2524 VISEMNVSGEYSMNWRVL 2577
+            +ISE NV  + ++++RVL
+Sbjct: 1858 IISESNVINDQTISYRVL 1911
+
+
+
+ Score = 46.0 bits (94), Expect(2) = 5e-11
+ Identities = 20/34 (58%), Positives = 23/34 (67%)
+ Frame = -2 / -2
+
+                                              
+Query: 2519 LPSEFTCST*ATCPYCVLEPATPFVKITASPFLG 2418
+            +PSE T ST ATCPY +  PATP  K+ A P LG
+Sbjct: 1856 IPSEVTASTKATCPY*LSAPATPGWKLIARPALG 1755
+
+
+
+ Score = 31.8 bits (63), Expect(2) = 5e-11
+ Identities = 14/26 (53%), Positives = 15/26 (57%)
+ Frame = -2 / -2
+
+                                      
+Query: 2366 LAFPIVG*MLFPNCAKRLNTYQVQFP 2289
+            L FPI      PNC KRL TY V +P
+Sbjct: 1706 LPFPINSSTEVPNCLKRL*TYHVHWP 1629
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF27 sequence=AY855841:26247:26873:+ prgL
+         (627 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF28 sequence=AY855841:26860:27105:+ prgM
+         (246 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF29 sequence=AY855841:27089:27697:+ pcfA
+         (609 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF30 sequence=AY855841:27856:28341:+ pcfB
+         (486 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF31 sequence=AY855841:28341:30170:+ pcfC
+         (1830 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF32 sequence=AY855841:30221:32380:+ pcfD
+         (2160 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF33 sequence=AY855841:32413:32685:+ pcfE
+         (273 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF34 sequence=AY855841:32931:33287:+ pcfF
+         (357 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF35 sequence=AY855841:33288:34973:+ pcfG
+         (1686 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF36 sequence=AY855841:35006:35356:+ pcfH
+         (351 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF37 sequence=AY855841:35680:35847:+ pcfI
+         (168 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF38 sequence=AY855841:35873:37210:- pcfJ
+         (1338 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF39 sequence=AY855841:37207:37983:- pcfK
+         (777 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF40 sequence=AY855841:38126:38674:- pcfL
+         (549 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF41 sequence=AY855841:38698:38889:- pcfM
+         (192 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF42 sequence=AY855841:38874:39059:- pcfN
+         (186 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF43 sequence=AY855841:39065:39514:- pcfO
+         (450 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF44 sequence=AY855841:39801:40001:+ pcfP
+         (201 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF45 sequence=AY855841:58142:58372:- pcfQ
+         (231 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF46 sequence=AY855841:58427:58921:+ pcfR
+         (495 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF47 sequence=AY855841:58987:59439:+ pcfS
+         (453 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF48 sequence=AY855841:59617:60195:+ pcfT
+         (579 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF49 sequence=AY855841:60277:60606:+ pcfU
+         (330 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF50 sequence=AY855841:60829:61854:+ pcfV
+         (1026 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF51 sequence=AY855841:62776:63048:+ pcfW
+         (273 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF52 sequence=AY855841:63710:64369:+ pcfX
+         (660 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF53 sequence=AY855841:64451:65071:+ pcfY
+         (621 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF54 sequence=AY855841:65079:65375:+ pcfZ
+         (297 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF55 sequence=AY855841:65369:65593:+ uvrC
+         (225 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF56 sequence=AY855841:65654:65863:+ uvrB
+         (210 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+TBLASTX 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= pCF10_ORF57 sequence=AY855841:65875:66048:+ uvaB
+         (174 letters)
+
+Database: ../gc_alignment/NC_004668.cds 
+           85 sequences; 75,762 total letters
+
+Searching..................................................done
+
+ ***** No hits found ******
+
+
+  Database: ../gc_alignment/NC_004668.cds
+    Posted date:  Nov 1, 2017 12:18 PM
+  Number of letters in database: 75,762
+  Number of sequences in database:  85
+  
+Lambda     K      H
+   0.318    0.134    0.401 
+
+
+Matrix: BLOSUM62
+Number of Sequences: 85
+Number of Hits to DB: 8,174,506
+Number of extensions: 148902
+Number of successful extensions: 708
+Number of sequences better than 1.0e-05: 1
+Length of database: 25,254
+Neighboring words threshold: 13
+Window for multiple hits: 40
+X1: 16 ( 7.3 bits)
+S2: 73 (36.3 bits)

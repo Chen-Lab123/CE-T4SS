@@ -1,0 +1,185 @@
+BLASTN 2.2.18 [Mar-02-2008]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= AY855841  [Enterococcus faecalis
+         (67,673 letters)
+
+Database: .//NC_004668.fas 
+           1 sequences; 100,930 total letters
+
+Searching..................................................done
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+NC_004668_1753724_1854644                                             109   7e-24
+
+>NC_004668_1753724_1854644
+          Length = 100930
+
+ Score =  109 bits (55), Expect = 7e-24
+ Identities = 139/167 (83%)
+ Strand = Plus / Plus
+
+                                                                         
+Query: 55833 ccaaacatcatgccatagcccatttcagacatacgacctaaagccactctgaaattaaac 55892
+             ||||||||||||  ||| || | ||||  ||||||||| |||||||||| ||| ||||| 
+Sbjct: 79968 ccaaacatcatggaatacccgagttcactcatacgacccaaagccactcggaagttaaat 80027
+
+                                                                         
+Query: 55893 tgatcacggattccgtcgcctaaatattttgcgtctggacgttgacaagccagtattaga 55952
+             ||||| || || ||||| |||||||||||||| || || | |||||||||||| ||||||
+Sbjct: 80028 tgatcgcgaatcccgtctcctaaatattttgcatccggtctttgacaagccagaattaga 80087
+
+                                                            
+Query: 55953 aagaagccagcttgacgacctaacatgacaatctgtttcagcttatt 55999
+             ||||| ||||  |||||||| ||||| || || ||||| ||||||||
+Sbjct: 80088 aagaaaccagactgacgacccaacatcacgatttgtttgagcttatt 80134
+
+
+
+ Score = 63.9 bits (32), Expect = 4e-10
+ Identities = 356/464 (76%)
+ Strand = Plus / Plus
+
+                                                                         
+Query: 51350 atattgatttcatgggaaatctctggcaaggtttctttccatctgccacgttctgctttt 51409
+             |||||||||||||  | ||| ||||||||| |||||||||| |  || |||||| |||||
+Sbjct: 71078 atattgatttcatccgcaatttctggcaagttttctttccaaccacctcgttctcctttt 71137
+
+                                                                         
+Query: 51410 gggtctacaatcactgcttgtgccccataaagcaccgcataatagacgataaggttattc 51469
+             || || |||||||| |||||  | ||| |||| || ||||| ||||| |  || || || 
+Sbjct: 71138 ggatcgacaatcacagcttggccaccaaaaagaacagcatagtagaccaagagattgtta 71197
+
+                                                                         
+Query: 51470 gcaaaggatttaccaccacccagcgaaccaacaaaagccgacgctaacgcattggttact 51529
+               ||||||||| || ||||| || |||||||  || || |  || || |||||||| |||
+Sbjct: 71198 ctaaaggattttccgccaccgagtgaaccaaggaacgcagcagccaaagcattggtaact 71257
+
+                                                                         
+Query: 51530 gaacccttaaccccttgactggcaagagcaggtttcagatagacattgcgtccagtatct 51589
+             |||||||| ||||||||    || |  || |||||||| || ||||| || || ||||||
+Sbjct: 71258 gaacccttgaccccttgtgaagctaatgccggtttcaggtaaacattccgccccgtatct 71317
+
+                                                                         
+Query: 51590 aagctgtagccaacataaatcccctcattttcccccagcatttgagtagcaccaaaacct 51649
+             |   |||||||||  || || || ||   |||||| ||| |||||||||| |||||||| 
+Sbjct: 71318 acattgtagccaaagtagatgccttctaattcccctagcttttgagtagccccaaaacca 71377
+
+                                                                         
+Query: 51650 aaaccagcgaggaaatcagaggtcacgtattgaatataatcattcatataacgcttgctg 51709
+             |  || || |  || ||||| || || ||||| |||||||| |||||||| || ||||| 
+Sbjct: 71378 agtcccgctaaaaagtcagaagtaacatattggatataatcgttcatatagcgtttgctt 71437
+
+                                                                         
+Query: 51710 gcaggtaaaaattcttcatgtaagccgagcatatccccaaatggtcgtaccagttttacg 51769
+             |  || || |||||||||||||  || | |||||| ||||| ||||| || |||||||| 
+Sbjct: 71438 gagggcaagaattcttcatgtagccccatcatatcgccaaagggtcggactagttttaca 71497
+
+                                                         
+Query: 51770 cttaaatcgtcataaaaatctttcacttcattacaacgacgttt 51813
+              |   ||| |||||||||||   |||||||| |||||| |||||
+Sbjct: 71498 ttagtatcatcataaaaatcgaacacttcatcacaacggcgttt 71541
+
+
+
+ Score = 60.0 bits (30), Expect = 6e-09
+ Identities = 90/110 (81%)
+ Strand = Plus / Plus
+
+                                                                         
+Query: 51977 tctttcagttctttctttttattgcggacagtagatagggctttacgattcgctacaatt 52036
+             |||||||||||||| || |||||||| ||||| |  || |||||   ||| |  ||||| 
+Sbjct: 71705 tctttcagttcttttttcttattgcgaacagtggcaagagcttttttattggtcacaatc 71764
+
+                                                               
+Query: 52037 tccacattcattgacgtatcaatcgggaatgtaaattgctgttgctggta 52086
+             |||||||||||||| |||||||| || || || ||||| |||||||||||
+Sbjct: 71765 tccacattcattgaagtatcaatgggaaaagtgaattgttgttgctggta 71814
+
+
+
+ Score = 54.0 bits (27), Expect = 4e-07
+ Identities = 69/83 (83%)
+ Strand = Plus / Plus
+
+                                                                         
+Query: 49152 aacatactcattaaatcgcccagcttgaagtagattcctgcaaaggtcacaatctgtaga 49211
+             ||||||||||| |  || ||||  ||||| ||||| || |||||||||||||| ||||||
+Sbjct: 68914 aacatactcataatgtcacccaatttgaaatagataccggcaaaggtcacaatttgtaga 68973
+
+                                    
+Query: 49212 aaagcaatcaaaaagaacggata 49234
+             ||||| | || |||||| |||||
+Sbjct: 68974 aaagctaccataaagaagggata 68996
+
+
+
+ Score = 52.0 bits (26), Expect = 1e-06
+ Identities = 94/114 (82%), Gaps = 2/114 (1%)
+ Strand = Plus / Plus
+
+                                                                         
+Query: 50477 acaggtggtctggtatcaaaggcatggagcagttcttcaaatacagggtggaactgtatc 50536
+             |||||||| | |||||||||||||||||  ||||||||||| || || || | ||| | |
+Sbjct: 70205 acaggtggacgggtatcaaaggcatggaagagttcttcaaagactggatgtacctgaacc 70264
+
+                                                                   
+Query: 50537 acaccgacacgaccatataaatcactg-ataaggcattgcccgttttccaaatc 50589
+             || || || |||||||| ||||| ||| || | |||||| ||||||||||||||
+Sbjct: 70265 acgcctacccgaccatacaaatc-ctgcatcaagcattggccgttttccaaatc 70317
+
+
+
+ Score = 50.1 bits (25), Expect = 6e-06
+ Identities = 28/29 (96%)
+ Strand = Plus / Plus
+
+                                          
+Query: 55566 tttgtacccccctgttagatacggggggt 55594
+             |||||||||||||||||||| ||||||||
+Sbjct: 78659 tttgtacccccctgttagatgcggggggt 78687
+
+
+  Database: .//NC_004668.fas
+    Posted date:  Nov 1, 2017 10:58 AM
+  Number of letters in database: 100,930
+  Number of sequences in database:  1
+  
+Lambda     K      H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda     K      H
+    1.37    0.711     1.31 
+
+
+Matrix: blastn matrix:1 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 1
+Number of Hits to DB: 21,675
+Number of extensions: 9694
+Number of successful extensions: 19
+Number of sequences better than 1.0e-05: 1
+Number of HSP's gapped: 19
+Number of HSP's successfully gapped: 9
+Length of query: 67673
+Length of database: 100,930
+Length adjustment: 17
+Effective length of query: 67656
+Effective length of database: 100,913
+Effective search space: 6827369928
+Effective search space used: 6827369928
+X1: 11 (21.8 bits)
+X2: 15 (29.7 bits)
+X3: 50 (99.1 bits)
+S1: 19 (38.2 bits)
+S2: 25 (50.1 bits)
